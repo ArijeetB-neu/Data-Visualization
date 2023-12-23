@@ -6,7 +6,7 @@ This dataset encapsulates public information from about 115K Brazilian e-commerc
 ### Gained Insights
 1.	Quarterly-to-date (QTD) Sales exhibit a decline compared to the Previous Quarter-to-date (PQTD) Sales, indicating a consistent Quarter-on-Quarter downturn in business. This trend is mirrored in Profit and Quantity Sold, with both metrics decreasing Quarter-on-Quarter.
 2.	The AMER and EMEA Regions collectively contribute nearly 80% of the total Market Share, surpassing other regions.
-3.	The Fishing Category stands out as the top-selling category market-wide. Computer, Children Clothing, Crafts, Cameras, and Garden are newly introduced categories for the year 2017, with the Computer category being the highest performing among them.
+3.	The Fishing Category stands out as the top-selling category market-wide. Computer, Children Clothing, Crafts, Cameras, and Garden are newly introduced categories for the year 2023, with the Computer category being the highest performing among them.
 4.	The company commenced product sales in the AMER Region in 2023, quickly capturing 44.08% of the market share.
 5.	Only 30 countries worldwide contribute approximately 81% of the total sales.
 6.	Product Analysis enables users to evaluate individual product performance, with filters available for Region and specific Country selection. It provides insights into product performance based on Sales, Order Quantity, Profit per order, and Profit Margin.
