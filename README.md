@@ -1,10 +1,6 @@
-I am making a portfolio of projects to show different Data Visualization Projects I have worked on over the years.
+I am making a portfolio to show Data Visualization Projects I have worked on over the years.
 
-## Project 1: [Relational Databases - Data Modeling with PostgreSQL](https://github.com/ArijeetB-neu/Database-Projects/tree/main/P1-DataModelling-MSSQL).
-Developed a relational database using MSSQL to model user activity data for a hospital NGO services. Skills include:
-* Created a relational database using MSSQL
-* Defined and developed entity relation type. Normalization of tables.
-* Built Functions, Stored Procedures, Views, Triggers to add functionality to the database.
-* Analyze the Database through PowerBI dashboards.
+## Project 1: [E-commerce Sales Analysis](https://github.com/ArijeetB-neu/Data-Visualization/tree/main/P1-Ecommerce%20Sales%20Analysis).
+Developed an E-commerce sales analysis project using Tableau Desktop to examine 115K transactions across global marketplaces. The project delves into YTD, QTD, PQTD sales, market trends, product performance, customer segments, and shipment details, providing actionable insights for refining marketing strategies and introducing new products.
 
-Proficiencies include: MSSQL, Functions, Stored Procedures, Views, Triggers, PowerBI
+Proficiencies include: Tableau Desktop, Data Cleaning methods
