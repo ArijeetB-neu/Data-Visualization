@@ -1,13 +1,7 @@
-## Project 1 - Investigate dataset called No Show Appointment data
+## Project 1 - E-Commerce Sales Analysis
 
 ### Overview
 This dataset encapsulates public information from about 115K Brazilian e-commerce transactions, offering a holistic view of order details across global marketplaces. Then used Tableau Desktop Software to delve into business trends, market analysis, product performance, customer segmentation, and shipment details. This anonymized commercial data comprising 43 fields, underwent rigorous cleaning and analysis using Tableau Desktop. Then explored metadata and delved into the methodology, leading to actionable insights. These insights guide the creation of an intuitive and informative dashboard designed for diverse stakeholders.
-
-
-- What proportion of people show-up?
-- Which all patient health designation influence no-show/show-up rate?
-- From which neighborhoods people are most likely & least likely to show-up?
-- How does age, total number of missed appointments & waiting time influence no-show/show-up rate?
 
 ### Gained Insights
 1.	Quarterly-to-date (QTD) Sales exhibit a decline compared to the Previous Quarter-to-date (PQTD) Sales, indicating a consistent Quarter-on-Quarter downturn in business. This trend is mirrored in Profit and Quantity Sold, with both metrics decreasing Quarter-on-Quarter.
